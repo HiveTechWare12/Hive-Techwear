@@ -10,7 +10,7 @@ Hive Tech Wear, with a frontend built in React & Redux and a backend built in Dj
 
 **This App uses a Heroku free plan, so I am afraid that it takes time to load the pages.**
 
-Check out [FRONTEND LIVE DEMO](https://cinemafrontend-1.richielunimis.repl.co/) here!!
+Check out [FRONTEND LIVE DEMO](https://Hive-techwear-front.hivetechware12.repl.co) here!!
 
 Check out [API LIVE DEMO](https://hivebackend.hivetechware12.repl.co/) here!!
 
